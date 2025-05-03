@@ -7,7 +7,8 @@
 spyder
 HTML
 ## 🖼️圖示
-
+圖示: ![image](https://github.com/user-attachments/assets/a2b0f3bd-bbd9-4d18-94be-75e08b2ad64d)
+網站連結:https://www.coldstone.com.tw/
 ## 👩‍💻作者與聯絡方式
 作者:廖宥萱 聯繫方式:s1120119@o365.st.pu.edu.tw
 
